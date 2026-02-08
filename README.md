@@ -40,12 +40,19 @@ Converts suggestions into short, clear kitchen instructions.
     Tech Stack-
 
   Technology	     Role
+  
   Python	         Backend logic
+ 
   Pandas	         Data preprocessing
+  
   Streamlit	         Web interface
+  
   LangChain	         LLM integration
+ 
   LangGraph	         Multi-agent workflow
+  
   Ollama	         Local LLM runtime
+  
   Mistral / Phi	     Language model for reasoning
 
  
