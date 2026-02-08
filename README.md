@@ -1,7 +1,7 @@
 FoodSense AI – Recipe Improvement Advisor
    
-  FoodSense AI is a multi-agent AI system that analyzes customer food reviews and generates actionable cooking improvement suggestions for recipes.
-  The system uses a structured AI workflow to transform raw review text into chef-style recommendations.
+   FoodSense AI is a multi-agent AI system that analyzes customer food reviews and generates actionable cooking improvement suggestions for recipes.
+   The system uses a structured AI workflow to transform raw review text into chef-style recommendations.
 
 
 
