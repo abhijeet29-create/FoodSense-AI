@@ -8,10 +8,15 @@ FoodSense AI – Recipe Improvement Advisor
 	🚀 Features-
   
 -🔍 Review analysis using AI
+
 -😊 Sentiment detection from customer feedback
+
 -🧠 Multi-agent reasoning pipeline
+
 -📊 Data preprocessing for clean inputs
+
 -🤖 Local LLM execution using Ollama
+
 -🌐 Interactive web interface with Streamlit
 
 
