@@ -112,7 +112,7 @@ Press Ctrl + C after the model loads.
 - Add recipe categorization  
 - Deploy on a cloud platform  
 
-    Author
- 
- Abhijeet Phatangare
+      Author
+
+    Abhijeet Phatangare
 
