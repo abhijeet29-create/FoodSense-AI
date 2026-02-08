@@ -7,12 +7,12 @@ FoodSense AI – Recipe Improvement Advisor
 
 	🚀 Features-
   
-  🔍 Review analysis using AI
-  😊 Sentiment detection from customer feedback
-  🧠 Multi-agent reasoning pipeline
-  📊 Data preprocessing for clean inputs
-  🤖 Local LLM execution using Ollama
-  🌐 Interactive web interface with Streamlit
+🔍 Review analysis using AI
+😊 Sentiment detection from customer feedback
+🧠 Multi-agent reasoning pipeline
+📊 Data preprocessing for clean inputs
+🤖 Local LLM execution using Ollama
+🌐 Interactive web interface with Streamlit
 
 
 
@@ -37,23 +37,17 @@ Reporter Agent-
 Converts suggestions into short, clear kitchen instructions.
 
 
-    Tech Stack-
+   ## 🛠️ Tech Stack
 
-  Technology	     Role
-  
-  Python	         Backend logic
- 
-  Pandas	         Data preprocessing
-  
-  Streamlit	         Web interface
-  
-  LangChain	         LLM integration
- 
-  LangGraph	         Multi-agent workflow
-  
-  Ollama	         Local LLM runtime
-  
-  Mistral / Phi	     Language model for reasoning
+| Technology | Role |
+|------------|------|
+| Python | Backend logic |
+| Pandas | Data preprocessing |
+| Streamlit | Web interface |
+| LangChain | LLM integration |
+| LangGraph | Multi-agent workflow |
+| Ollama | Local LLM runtime |
+| Mistral / Phi | Language model for reasoning |
 
  
 
