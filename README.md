@@ -100,15 +100,13 @@ Press Ctrl + C after the model loads.
   This project demonstrates how multi-agent AI systems can transform unstructured customer feedback into structured, domain-specific recommendations using local language models.
 
 
-
-    Future Improvements
   
-   Add more specialized agents
-   Use cloud LLMs for higher accuracy
-   Add recipe categorization
-   Deploy on cloud platform
+    ## 🧠 Future Improvements
 
-
+- Add more specialized agents  
+- Use cloud LLMs for higher accuracy  
+- Add recipe categorization  
+- Deploy on a cloud platform  
 
     Author
  
