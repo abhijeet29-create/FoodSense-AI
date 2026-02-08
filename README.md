@@ -35,7 +35,6 @@ Sentiment Agent-
 Identifies overall sentiment (positive/neutral/negative) and highlights specific taste, texture, and seasoning issues.
 
 Advisor Agent-
-
 Suggests practical cooking and ingredient improvements based on detected issues.
 
 Reporter Agent-
